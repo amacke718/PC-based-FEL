@@ -45,6 +45,8 @@ Then we use Python to Plot it!
 ![plot](./R2-WT_PC1_PC2_CONTOUR.png)
 
 If you caluclate the Rg & Ree instead then you can use the following to combine them instead:
-paste RGYR.xvg REE-dist.xvg | awk '{print $1, $2, $7}' > RG_REE.xvg
 
-![plot](./)
+> paste RGYR.xvg REE-dist.xvg | awk '{print $1, $2, $7}' > RG_REE.xvg
+
+Plot it with the alternative python code to get the lines instead:
+![plot](./R2-WT_RGYR_REE_CONTOUR.png)
