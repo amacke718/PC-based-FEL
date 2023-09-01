@@ -81,7 +81,7 @@ Then we use Python to Plot it!
 
 > for t in cbar.ax.get_yticklabels():
 
->      t.set_fontsize(20)
+>    t.set_fontsize(20)
 
 > plt.grid(linestyle = '--', linewidth=1, color='k', alpha = 0.2)
 
