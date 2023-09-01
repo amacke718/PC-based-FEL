@@ -101,4 +101,4 @@ Then we use Python to Plot it!
 
 > plt.savefig('{0}_PC1_PC2_CONTOUR.png'.format(NAME), dpi=300)
 
-./R2-WT_PC1_PC2_CONTOUR.png
+![plot](./R2-WT_PC1_PC2_CONTOUR.png)
