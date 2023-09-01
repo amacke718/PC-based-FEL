@@ -6,7 +6,8 @@ This process was used to visualize the FEL of local protein regions that were ch
 Published by: Amanda C. Macke - Dima Group @ University of Cincinnati
 email for questions (amacke718@gmail.com)
 
-StELa's flagship publication was:
+StELa's flagship publication was: 
+https://doi.org/10.1021/acs.jpcb.2c05288
 
 where we used StELa to identify a ligand dependent conformational transition in a local region of the severing enzymes Katanin and Spastin.
 
