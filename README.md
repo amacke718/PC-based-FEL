@@ -50,3 +50,7 @@ If you caluclate the Rg & Ree instead then you can use the following to combine 
 
 Plot it with the alternative python code to get the lines instead:
 ![plot](./R2-WT_RGYR_REE_CONTOUR.png)
+
+## I hope this helps you plot FELs in the future!
+## With Love, 
+## StELa
